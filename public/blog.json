@@ -1,0 +1,62 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead01",
+    "author": "Marina Cooper Jones",
+    "title": "Ways and means of learning programming in a very efficient way.",
+    "body": "The most thing is to choose a suitable programming language first that is appropriate for your learning level and goals. There are many languages for programming. Popular languages for beginners include Python, Java, JavaScript, and PHP. Practice coding regularly. The more you practice, the better you become in programming. Try to write code every day with consistency, even if it's just for a few minutes. The secret is working hard. Your hard work will of course pay a dau to come.",
+    "blog_image": "https://i.ibb.co/KqQ1NsM/programming-1.jpg",
+    "author_image": "https://i.ibb.co/S0G7S51/author-1.jpg",
+    "read_time": 10,
+    "published_date": "January 2022 (A year Ago)"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b8602",
+    "author": "John Peterson",
+    "title": "The techniques of learning to develop a web application very efficiently in React Js",
+    "body": "The most important thing is to start with the basics first.You should begin by learning the fundamentals of ReactJS first, such as components, state, props, and JSX most importantly. There are available online courses and tutorials which can be an excellent starting point for your learning. Build small projects, practice building small web applications and apply the concepts you have learned. Start with simple projects and gradually increase the complexity as you gain more experience and become more confident day by day. Understand the component lifecycle,  Learn how ReactJS components work and their lifecycle methods function. This will certainly help you optimize performance and understand how to handle state changes in the course of coding.",
+    "blog_image": "https://i.ibb.co/r0GMvWP/programming-2.jpg",
+    "author_image": "https://i.ibb.co/rtjwjvt/author-2.jpg",
+    "read_time": 7,
+    "published_date": "March 2021 (Two years ago)"
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe92203",
+    "author": "Dr. Mary Anne",
+    "title": "How can you find your dream job in prestigious companies home and abroad ?",
+    "body": "The first priority is to identify the goals and values you want to reach and achieve. Start by identifying your career goals and values important to you. Then consider what is most important to you in a job, such as work-life balance, job security, career growth opportunities, and company culture. Many research companies worldwide conduct research on companies that align with your career goals and values effectively.  Prepare yourself for interviews. Practice your interview skills and do research on  the company and the role you will play beforehand. Always be prepared to answer common interview questions and showcase your skills and experience with confidence and eloquence.",
+    "blog_image": "https://i.ibb.co/zPdfWtJ/programming-3.jpg",
+    "author_image": "https://i.ibb.co/GcqnMW5/author-3.jpg",
+    "read_time": 15,
+    "published_date": "April 2021 (Two year ago)"
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e04",
+    "author": "Elizabeth Anna Bell",
+    "title": "Ways and means of becoming a self taught efficient programmer.",
+    "body": "First build your own projects. Practice coding by building small projects, such as a website or a mobile app. You should start with simple projects first and gradually increase the complexity as you gain more experience and have confidence. Attend seminars and  coding Bootcamps offer intensive coding courses that can teach you the most effective and necessary skills in a short time. Then you can read coding blogs and books. Read more about programming techniques and best practices that is available to you.",
+    "blog_image": "https://i.ibb.co/s9M9h92/programming-4.jpg",
+    "author_image": "https://i.ibb.co/KXwYG5d/author-4.jpg",
+    "read_time": 9,
+    "published_date": "December 2022 (A year ago)"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb005",
+    "author": "Robert James",
+    "title": "How to think and organize coding in bits and pieces to create an excellent web app of your choice efficiently.",
+    "body": "You should define the problem and requirements first.Then start by defining the problem you are trying to solve and the requirements for the web app you think is most suitable. This process will help you stay focused on the end goal and avoid unnecessary features or functionality you feel bothered. More importantly create a road-map of your own. Create a project plan that outlines the different parts of the web app and their dependencies then think on it with attention. This will help you stay organized and will ensure that you are developing the web app in the right order and you will feel confident enough than ever before.",
+    "blog_image": "https://i.ibb.co/TtBcdBQ/programming-background-collage-4.jpg",
+    "author_image": "https://i.ibb.co/SQqYNMc/author-5.jpg",
+    "read_time": 13,
+    "published_date": "February 2023 (A month ago)"
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d06",
+    "author": "John Ashlely Peter",
+    "title": "Methods of debugging your code efficiently and effectively in a short time.",
+    "body": "In programming  code is always subject to bugs. So debugging is an essential and unavoidable skill for any programmer especially who is a beginner. There goes some methods for debugging your code efficiently and effectively in a short time. You will need to use a debugger for bug fixing. Debuggers are software tools that help you identify and resolve errors in your code in a vey short time and thus save your time. In debugger you are to set breakpoints, step through code, and inspect variables in real-time. Most modern integrated development environments (code editors) have built-in debuggers that help a programmer debug his or her code. You can comment out your code. Commenting out code can help a programmer isolate the problem by temporarily removing parts of the code. So commenting out code can help a programmer identify where the problem is occurring and what part of the code is causing the error in the file in front. So have patience. No one becomes a good programmer overnight.Have patience and go on coding and the day of your dream will peep you in the days to come.",
+    "blog_image": "https://i.ibb.co/jZFBZdm/programming-background-collage-2.jpg",
+    "author_image": "https://i.ibb.co/7J6Wqgt/author-7.jpg",
+    "read_time": 11,
+    "published_date": "March 2023 (This Month)"
+  }
+]

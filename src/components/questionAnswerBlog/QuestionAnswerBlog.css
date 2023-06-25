@@ -1,0 +1,19 @@
+.question-answer-blog {
+  margin: 5rem 0rem;
+  width: 80%;
+  margin: auto;
+}
+.question-answer-blog h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+.question-answer {
+  text-align: left;
+}
+.question-style {
+  font-size: 1.7rem;
+  font-weight: 900;
+}
+.blog-divider {
+  border: 0.1rem solid #faf6f6;
+}

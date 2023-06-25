@@ -1,0 +1,8 @@
+.reading-count {
+  position: sticky;
+  top: 95px;
+}
+.bookmarked-list {
+  position: sticky;
+  top: 220px;
+}
